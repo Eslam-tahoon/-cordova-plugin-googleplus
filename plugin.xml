@@ -29,11 +29,11 @@
   <!-- android -->
   <platform name="android">
 
-	<framework src="com.google.firebase:firebase-crash:+" />
-	<framework src="com.google.firebase:firebase-core:+" />
-	<framework src="com.google.android.gms:play-services-gcm:+" />
-    <framework src="com.google.android.gms:play-services-auth:+" />
-    <framework src="com.google.android.gms:play-services-identity:+" />
+	<framework src="com.google.firebase:firebase-crash:9.2.0" />
+	<framework src="com.google.firebase:firebase-core:9.2.0" />
+	<framework src="com.google.android.gms:play-services-gcm:9.2.0" />
+    <framework src="com.google.android.gms:play-services-auth:9.2.0" />
+    <framework src="com.google.android.gms:play-services-identity:9.2.0" />
 
 
     <config-file target="res/xml/config.xml" parent="/*">
